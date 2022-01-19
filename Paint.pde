@@ -1,3 +1,5 @@
+//I learn the painting of Processing today and try to draw someting, this is the code
+
 size(400,600);
 
 background(230,232,180);
