@@ -1,3 +1,5 @@
+//Jan 21
+//Today I keep working on the project 1 and this is a small work of processing which use mouse to draw
 
 void setup(){
 size(500,500);
