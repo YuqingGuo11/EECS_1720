@@ -1,3 +1,6 @@
+//Jan 22
+//Today I just try some function at processing and it is a new softwar for me, also I am keep going on the lab project 1
+
 float t = 0;
 
 void setup(){
