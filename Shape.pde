@@ -1,3 +1,8 @@
+//Jan 25
+//Today I keep going on my project and this is a simple shape made in processing
+
+
+
 int n = 6;
 float r= 300;
 void setup(){
