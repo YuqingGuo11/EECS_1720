@@ -1,3 +1,6 @@
+//Jan 26
+//Today I keep working on the project 1 and I lean some Python language which is new for me
+
 import random
 
 ran = random.randint(1,50)
